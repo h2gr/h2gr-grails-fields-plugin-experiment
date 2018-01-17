@@ -14,6 +14,8 @@ The Grails Fields Plugin documentation (stable version) is
 3. Create field templates for propertyType 'string', which generate output 
    that identifies which template is invoked.
 
+(All preparations are already done in the previous commits in this project.)
+
 ## Execution
 
 Build and run the application, invoke each view (index, show, create, edit),
