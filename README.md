@@ -2,9 +2,7 @@
 
 The point of this experiment is to gain some insight into how the
 [Grails Fields Plugin](http://plugins.grails.org/plugin/grails/fields) 
-works.
-
-The Grails Fields Plugin documentation (stable version) is 
+works. The Grails Fields Plugin documentation (stable version) is 
 [here](http://grails-fields-plugin.github.io/grails-fields/latest/guide/index.html).
 
 ## Preparation
@@ -19,4 +17,4 @@ All the above steps are already implemented in the previous commits in this proj
 ## Execution
 
 Build and run the application, invoke each view (index, show, create, edit),
-look at how the name property of Person is rendered in each case.
+and look at how the name property of Person is rendered in each of them.
